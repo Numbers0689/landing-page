@@ -100,3 +100,20 @@ img#main-img {
     color: #5a5a5a;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    text-align: left;
+    padding: 100px 300px;
+}
+
+#author {
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    text-align: right;
+    padding-top: 8px;
+}
