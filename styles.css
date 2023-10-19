@@ -148,3 +148,13 @@ img#main-img {
 .alert {
     color: #E5E7EB;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 40px 80px;
+    font-size: 18px;
+}
