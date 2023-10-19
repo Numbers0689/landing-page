@@ -117,3 +117,34 @@ img#main-img {
     text-align: right;
     padding-top: 8px;
 }
+
+.action {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin: 80px 200px;
+    gap: 80px;
+    padding: 60px 0;
+    border-radius: 15px;
+}
+
+.action a {
+    font-size: 18px;
+    color: #F9FAF8;
+    font-weight: 600;
+    margin-top: 8px;
+    border-radius: 8px;
+    padding: 8px 28px;
+    border: 2px solid #F9FAF8;
+}
+
+.alert-text {
+    font-size: 24px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
+.alert {
+    color: #E5E7EB;
+}
